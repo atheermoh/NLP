@@ -15,7 +15,7 @@ We Generate word cloud for Positive and Negative reviews
 
 
 
-Comparing F1 Scores, Recall Scores and Average Precision Score for our Models
+Comparing F1 & Recall Scores for our Models
 
 
 <img width="600" alt="Screenshot 1445-05-14 at 12 50 53 PM" src="https://github.com/atheermoh/NLP/assets/51926875/c0c5fe0e-8423-46aa-8525-d41578144a37">
